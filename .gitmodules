@@ -1,3 +1,6 @@
 [submodule "external/kardolous-prompts"]
 	path = external/kardolous-prompts
 	url = https://github.com/kardolus/prompts
+[submodule "external/People-Inside-Prompts"]
+	path = external/People-Inside-Prompts
+	url = git@github.com:metapromptjc/People-Inside-Prompts.git
